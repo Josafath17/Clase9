@@ -1,0 +1,10 @@
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\bin\Debug\XMLPractica.exe.config
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\bin\Debug\XMLPractica.exe
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\bin\Debug\XMLPractica.pdb
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.csprojAssemblyReference.cache
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\CapaPresentacion.Form1.resources
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.Properties.Resources.resources
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.csproj.GenerateResource.cache
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.csproj.CoreCompileInputs.cache
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.exe
+C:\Users\Estudiante.COMSSC340\source\repos\XMLPractica\XMLPractica\obj\Debug\XMLPractica.pdb

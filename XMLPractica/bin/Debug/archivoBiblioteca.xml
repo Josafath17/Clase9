@@ -1,0 +1,13 @@
+<Biblioteca>
+  <libro>
+    <codigo>2020</codigo>
+    <nombre>carlitos</nombre>
+    <añoPublicacion>9560</añoPublicacion>
+    <resumen>xd</resumen>
+    <idAutor>1720</idAutor>
+    <nombreAutor>CARLOS</nombreAutor>
+    <nacionalidadAutor>ALAJUELA</nacionalidadAutor>
+    <nacimientoAutor>24/07/2022 0:00:00</nacimientoAutor>
+    <sexoAutor>Hombre</sexoAutor>
+  </libro>
+</Biblioteca>
